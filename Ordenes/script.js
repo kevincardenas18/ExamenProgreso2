@@ -8,6 +8,7 @@ const customerData = {
     phone: '123456789'
 };
 let orders = [];
+let cart = JSON.parse(localStorage.getItem('cart')) || [];
 
 document.addEventListener('DOMContentLoaded', () => {
     fetchProducts();
@@ -49,7 +50,7 @@ function displayProducts(products) {
                 <span id="quantity-${product.id}">1</span>
                 <button onclick="updateQuantity(${product.id}, 1)">+</button>
             </div>
-            <button class="order-button" onclick="createOrder(${product.id}, '${product.thumbnail}', '${product.title}', ${product.price})">Order</button>
+            <button class="order-button" onclick="addToCart(${product.id}, '${product.thumbnail}', '${product.title}', ${product.price})">Add to Cart</button>
         `;
         productGrid.appendChild(productCard);
     });
@@ -63,18 +64,25 @@ function updateQuantity(productId, change) {
     quantityElement.textContent = currentQuantity;
 }
 
-function createOrder(productId, productImage, productName, productPrice) {
+function addToCart(productId, productImage, productName, productPrice) {
     const quantity = parseInt(document.getElementById(`quantity-${productId}`).textContent);
-    const order = {
-        productId,
-        productImage,
-        productName,
-        productPrice,
-        quantity,
-        ...customerData
-    };
-    orders.push(order);
-    downloadCSV();
+    const productInCart = cart.find(item => item.productId === productId);
+
+    if (productInCart) {
+        productInCart.quantity += quantity;
+    } else {
+        const product = {
+            productId,
+            productImage,
+            productName,
+            productPrice,
+            quantity
+        };
+        cart.push(product);
+    }
+
+    localStorage.setItem('cart', JSON.stringify(cart));
+    alert('Product added to cart');
 }
 
 function updatePagination(totalItems) {
@@ -93,20 +101,4 @@ function changePage(offset) {
 function searchProducts() {
     currentPage = 0;
     fetchProducts(0, document.getElementById('searchInput').value);
-}
-
-function downloadCSV() {
-    const csvHeader = "ID,Nombre,Direccion,Telefono,ProductID,ProductName,ProductPrice,Quantity,ProductImage\n";
-    const csvRows = orders.map(order => {
-        return `${order.id},${order.name},${order.address},${order.phone},${order.productId},${order.productName},${order.productPrice},${order.quantity},${order.productImage}`;
-    });
-    const csvContent = csvHeader + csvRows.join("\n");
-
-    const encodedUri = encodeURI("data:text/csv;charset=utf-8," + csvContent);
-    const link = document.createElement("a");
-    link.setAttribute("href", encodedUri);
-    link.setAttribute("download", "orders.csv");
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
 }

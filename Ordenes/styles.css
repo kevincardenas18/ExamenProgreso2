@@ -119,3 +119,55 @@ main {
 .pagination span {
     margin: 0 1rem;
 }
+
+.cart-container a {
+    color: #fdfdfd;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.cart-container a:hover {
+    color: #ff6347;
+}
+
+.cart-container i {
+    margin-right: 0.5rem;
+}
+
+.cart-card {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.cart-card img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.cart-card h2 {
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+}
+
+.cart-card p {
+    margin: 0.5rem 0;
+    color: #555;
+}
+
+.cart-card .quantity {
+    margin-top: 1rem;
+}
+
+.cart-card .remove-button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #ff6347;
+    color: #fff;
+    cursor: pointer;
+}

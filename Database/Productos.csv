@@ -1,0 +1,195 @@
+product_id,product_name,product_image,product_price,stock
+1,"Essence Mascara Lash Princess",https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png,9.99,100
+2,"Eyeshadow Palette with Mirror",https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png,19.99,100
+3,"Powder Canister",https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png,14.99,100
+4,"Red Lipstick",https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png,12.99,99
+5,"Red Nail Polish",https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png,8.99,100
+6,"Calvin Klein CK One",https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png,49.99,99
+7,"Chanel Coco Noir Eau De",https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png,129.99,100
+8,"Dior J'adore",https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png,89.99,100
+9,"Dolce Shine Eau de",https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png,69.99,100
+10,"Gucci Bloom Eau de",https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png,79.99,100
+11,"Annibale Colombo Bed",https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png,1899.99,100
+12,"Annibale Colombo Sofa",https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png,2499.99,100
+13,"Bedside Table African Cherry",https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png,299.99,100
+14,"Knoll Saarinen Executive Conference Chair",https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/thumbnail.png,499.99,100
+15,"Wooden Bathroom Sink With Mirror",https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png,799.99,100
+16,Apple,https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png,1.99,100
+17,"Beef Steak",https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/thumbnail.png,12.99,100
+18,"Cat Food",https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png,8.99,100
+19,"Chicken Meat",https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png,9.99,100
+20,"Cooking Oil",https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png,4.99,100
+21,Cucumber,https://cdn.dummyjson.com/products/images/groceries/Cucumber/thumbnail.png,1.49,100
+22,"Dog Food",https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/thumbnail.png,10.99,100
+23,Eggs,https://cdn.dummyjson.com/products/images/groceries/Eggs/thumbnail.png,2.99,100
+24,"Fish Steak",https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png,14.99,100
+25,"Green Bell Pepper",https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png,1.29,100
+26,"Green Chili Pepper",https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png,0.99,100
+27,"Honey Jar",https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/thumbnail.png,6.99,100
+28,"Ice Cream",https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png,5.49,100
+29,Juice,https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png,3.99,100
+30,Kiwi,https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png,2.49,100
+31,Lemon,https://cdn.dummyjson.com/products/images/groceries/Lemon/thumbnail.png,0.79,100
+32,Milk,https://cdn.dummyjson.com/products/images/groceries/Milk/thumbnail.png,3.49,100
+33,Mulberry,https://cdn.dummyjson.com/products/images/groceries/Mulberry/thumbnail.png,4.99,100
+34,"Nescafe Coffee",https://cdn.dummyjson.com/products/images/groceries/Nescafe%20Coffee/thumbnail.png,7.99,100
+35,Potatoes,https://cdn.dummyjson.com/products/images/groceries/Potatoes/thumbnail.png,2.29,100
+36,"Protein Powder",https://cdn.dummyjson.com/products/images/groceries/Protein%20Powder/thumbnail.png,19.99,100
+37,"Red Onions",https://cdn.dummyjson.com/products/images/groceries/Red%20Onions/thumbnail.png,1.99,100
+38,Rice,https://cdn.dummyjson.com/products/images/groceries/Rice/thumbnail.png,5.99,100
+39,"Soft Drinks",https://cdn.dummyjson.com/products/images/groceries/Soft%20Drinks/thumbnail.png,1.99,100
+40,Strawberry,https://cdn.dummyjson.com/products/images/groceries/Strawberry/thumbnail.png,3.99,100
+41,"Tissue Paper Box",https://cdn.dummyjson.com/products/images/groceries/Tissue%20Paper%20Box/thumbnail.png,2.49,100
+42,Water,https://cdn.dummyjson.com/products/images/groceries/Water/thumbnail.png,0.99,100
+43,"Decoration Swing",https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/thumbnail.png,59.99,100
+44,"Family Tree Photo Frame",https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png,29.99,100
+45,"House Showpiece Plant",https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/thumbnail.png,39.99,100
+46,"Plant Pot",https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/thumbnail.png,14.99,100
+47,"Table Lamp",https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/thumbnail.png,49.99,100
+48,"Bamboo Spatula",https://cdn.dummyjson.com/products/images/kitchen-accessories/Bamboo%20Spatula/thumbnail.png,7.99,100
+49,"Black Aluminium Cup",https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Aluminium%20Cup/thumbnail.png,5.99,100
+50,"Black Whisk",https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Whisk/thumbnail.png,9.99,100
+51,"Boxed Blender",https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/thumbnail.png,39.99,100
+52,"Carbon Steel Wok",https://cdn.dummyjson.com/products/images/kitchen-accessories/Carbon%20Steel%20Wok/thumbnail.png,29.99,100
+53,"Chopping Board",https://cdn.dummyjson.com/products/images/kitchen-accessories/Chopping%20Board/thumbnail.png,12.99,100
+54,"Citrus Squeezer Yellow",https://cdn.dummyjson.com/products/images/kitchen-accessories/Citrus%20Squeezer%20Yellow/thumbnail.png,8.99,100
+55,"Egg Slicer",https://cdn.dummyjson.com/products/images/kitchen-accessories/Egg%20Slicer/thumbnail.png,6.99,100
+56,"Electric Stove",https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/thumbnail.png,49.99,100
+57,"Fine Mesh Strainer",https://cdn.dummyjson.com/products/images/kitchen-accessories/Fine%20Mesh%20Strainer/thumbnail.png,9.99,100
+58,Fork,https://cdn.dummyjson.com/products/images/kitchen-accessories/Fork/thumbnail.png,3.99,100
+59,Glass,https://cdn.dummyjson.com/products/images/kitchen-accessories/Glass/thumbnail.png,4.99,100
+60,"Grater Black",https://cdn.dummyjson.com/products/images/kitchen-accessories/Grater%20Black/thumbnail.png,10.99,100
+61,"Hand Blender",https://cdn.dummyjson.com/products/images/kitchen-accessories/Hand%20Blender/thumbnail.png,34.99,100
+62,"Ice Cube Tray",https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png,5.99,100
+63,"Kitchen Sieve",https://cdn.dummyjson.com/products/images/kitchen-accessories/Kitchen%20Sieve/thumbnail.png,7.99,100
+64,Knife,https://cdn.dummyjson.com/products/images/kitchen-accessories/Knife/thumbnail.png,14.99,100
+65,"Lunch Box",https://cdn.dummyjson.com/products/images/kitchen-accessories/Lunch%20Box/thumbnail.png,12.99,100
+66,"Microwave Oven",https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/thumbnail.png,89.99,100
+67,"Mug Tree Stand",https://cdn.dummyjson.com/products/images/kitchen-accessories/Mug%20Tree%20Stand/thumbnail.png,15.99,100
+68,Pan,https://cdn.dummyjson.com/products/images/kitchen-accessories/Pan/thumbnail.png,24.99,100
+69,Plate,https://cdn.dummyjson.com/products/images/kitchen-accessories/Plate/thumbnail.png,3.99,100
+70,"Red Tongs",https://cdn.dummyjson.com/products/images/kitchen-accessories/Red%20Tongs/thumbnail.png,6.99,100
+71,"Silver Pot With Glass Cap",https://cdn.dummyjson.com/products/images/kitchen-accessories/Silver%20Pot%20With%20Glass%20Cap/thumbnail.png,39.99,100
+72,"Slotted Turner",https://cdn.dummyjson.com/products/images/kitchen-accessories/Slotted%20Turner/thumbnail.png,8.99,100
+73,"Spice Rack",https://cdn.dummyjson.com/products/images/kitchen-accessories/Spice%20Rack/thumbnail.png,19.99,100
+74,Spoon,https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/thumbnail.png,4.99,100
+75,Tray,https://cdn.dummyjson.com/products/images/kitchen-accessories/Tray/thumbnail.png,16.99,100
+76,"Wooden Rolling Pin",https://cdn.dummyjson.com/products/images/kitchen-accessories/Wooden%20Rolling%20Pin/thumbnail.png,11.99,100
+77,"Yellow Peeler",https://cdn.dummyjson.com/products/images/kitchen-accessories/Yellow%20Peeler/thumbnail.png,5.99,100
+78,"Apple MacBook Pro 14 Inch Space Grey",https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png,1999.99,100
+79,"Asus Zenbook Pro Dual Screen Laptop",https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/thumbnail.png,1799.99,100
+80,"Huawei Matebook X Pro",https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/thumbnail.png,1399.99,100
+81,"Lenovo Yoga 920",https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/thumbnail.png,1099.99,100
+82,"New DELL XPS 13 9300 Laptop",https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/thumbnail.png,1499.99,100
+83,"Blue & Black Check Shirt",https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/thumbnail.png,29.99,100
+84,"Gigabyte Aorus Men Tshirt",https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/thumbnail.png,24.99,100
+85,"Man Plaid Shirt",https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/thumbnail.png,34.99,100
+86,"Man Short Sleeve Shirt",https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/thumbnail.png,19.99,100
+87,"Men Check Shirt",https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/thumbnail.png,27.99,100
+88,"Nike Air Jordan 1 Red And Black",https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/thumbnail.png,149.99,100
+89,"Nike Baseball Cleats",https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/thumbnail.png,79.99,100
+90,"Puma Future Rider Trainers",https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/thumbnail.png,89.99,100
+91,"Sports Sneakers Off White & Red",https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/thumbnail.png,119.99,100
+92,"Sports Sneakers Off White Red",https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/thumbnail.png,109.99,100
+93,"Brown Leather Belt Watch",https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/thumbnail.png,89.99,100
+94,"Longines Master Collection",https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/thumbnail.png,1499.99,100
+95,"Rolex Cellini Date Black Dial",https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/thumbnail.png,8999.99,100
+96,"Rolex Cellini Moonphase",https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png,12999.99,100
+97,"Rolex Datejust",https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/thumbnail.png,10999.99,100
+98,"Rolex Submariner Watch",https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/thumbnail.png,13999.99,100
+99,"Amazon Echo Plus",https://cdn.dummyjson.com/products/images/mobile-accessories/Amazon%20Echo%20Plus/thumbnail.png,99.99,100
+100,"Apple Airpods",https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png,129.99,100
+101,"Apple AirPods Max Silver",https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20AirPods%20Max%20Silver/thumbnail.png,549.99,100
+102,"Apple Airpower Wireless Charger",https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpower%20Wireless%20Charger/thumbnail.png,79.99,100
+103,"Apple HomePod Mini Cosmic Grey",https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20HomePod%20Mini%20Cosmic%20Grey/thumbnail.png,99.99,100
+104,"Apple iPhone Charger",https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20iPhone%20Charger/thumbnail.png,19.99,100
+105,"Apple MagSafe Battery Pack",https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/thumbnail.png,99.99,100
+106,"Apple Watch Series 4 Gold",https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Watch%20Series%204%20Gold/thumbnail.png,349.99,100
+107,"Beats Flex Wireless Earphones",https://cdn.dummyjson.com/products/images/mobile-accessories/Beats%20Flex%20Wireless%20Earphones/thumbnail.png,49.99,100
+108,"iPhone 12 Silicone Case with MagSafe Plum",https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/thumbnail.png,29.99,100
+109,Monopod,https://cdn.dummyjson.com/products/images/mobile-accessories/Monopod/thumbnail.png,19.99,100
+110,"Selfie Lamp with iPhone",https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png,14.99,100
+111,"Selfie Stick Monopod",https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Stick%20Monopod/thumbnail.png,12.99,100
+112,"TV Studio Camera Pedestal",https://cdn.dummyjson.com/products/images/mobile-accessories/TV%20Studio%20Camera%20Pedestal/thumbnail.png,499.99,100
+113,"Generic Motorcycle",https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/thumbnail.png,3999.99,100
+114,"Kawasaki Z800",https://cdn.dummyjson.com/products/images/motorcycle/Kawasaki%20Z800/thumbnail.png,8999.99,100
+115,"MotoGP CI.H1",https://cdn.dummyjson.com/products/images/motorcycle/MotoGP%20CI.H1/thumbnail.png,14999.99,100
+116,"Scooter Motorcycle",https://cdn.dummyjson.com/products/images/motorcycle/Scooter%20Motorcycle/thumbnail.png,2999.99,100
+117,"Sportbike Motorcycle",https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/thumbnail.png,7499.99,100
+118,"Attitude Super Leaves Hand Soap",https://cdn.dummyjson.com/products/images/skin-care/Attitude%20Super%20Leaves%20Hand%20Soap/thumbnail.png,8.99,100
+119,"Olay Ultra Moisture Shea Butter Body Wash",https://cdn.dummyjson.com/products/images/skin-care/Olay%20Ultra%20Moisture%20Shea%20Butter%20Body%20Wash/thumbnail.png,12.99,100
+120,"Vaseline Men Body and Face Lotion",https://cdn.dummyjson.com/products/images/skin-care/Vaseline%20Men%20Body%20and%20Face%20Lotion/thumbnail.png,9.99,100
+121,"iPhone 5s",https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png,199.99,100
+122,"iPhone 6",https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png,299.99,100
+123,"iPhone 13 Pro",https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/thumbnail.png,1099.99,100
+124,"iPhone X",https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png,899.99,100
+125,"Oppo A57",https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/thumbnail.png,249.99,100
+126,"Oppo F19 Pro+",https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro+/thumbnail.png,399.99,100
+127,"Oppo K1",https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/thumbnail.png,299.99,100
+128,"Realme C35",https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/thumbnail.png,149.99,100
+129,"Realme X",https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/thumbnail.png,299.99,100
+130,"Realme XT",https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/thumbnail.png,349.99,100
+131,"Samsung Galaxy S7",https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/thumbnail.png,299.99,100
+132,"Samsung Galaxy S8",https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png,499.99,100
+133,"Samsung Galaxy S10",https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/thumbnail.png,699.99,100
+134,"Vivo S1",https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png,249.99,100
+135,"Vivo V9",https://cdn.dummyjson.com/products/images/smartphones/Vivo%20V9/thumbnail.png,299.99,100
+136,"Vivo X21",https://cdn.dummyjson.com/products/images/smartphones/Vivo%20X21/thumbnail.png,499.99,100
+137,"American Football",https://cdn.dummyjson.com/products/images/sports-accessories/American%20Football/thumbnail.png,19.99,100
+138,"Baseball Ball",https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/thumbnail.png,8.99,100
+139,"Baseball Glove",https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/thumbnail.png,24.99,100
+140,Basketball,https://cdn.dummyjson.com/products/images/sports-accessories/Basketball/thumbnail.png,14.99,100
+141,"Basketball Rim",https://cdn.dummyjson.com/products/images/sports-accessories/Basketball%20Rim/thumbnail.png,39.99,100
+142,"Cricket Ball",https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Ball/thumbnail.png,12.99,100
+143,"Cricket Bat",https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Bat/thumbnail.png,29.99,100
+144,"Cricket Helmet",https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/thumbnail.png,44.99,100
+145,"Cricket Wicket",https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Wicket/thumbnail.png,29.99,100
+146,"Feather Shuttlecock",https://cdn.dummyjson.com/products/images/sports-accessories/Feather%20Shuttlecock/thumbnail.png,5.99,100
+147,Football,https://cdn.dummyjson.com/products/images/sports-accessories/Football/thumbnail.png,17.99,100
+148,"Golf Ball",https://cdn.dummyjson.com/products/images/sports-accessories/Golf%20Ball/thumbnail.png,9.99,100
+149,"Iron Golf",https://cdn.dummyjson.com/products/images/sports-accessories/Iron%20Golf/thumbnail.png,49.99,100
+150,"Metal Baseball Bat",https://cdn.dummyjson.com/products/images/sports-accessories/Metal%20Baseball%20Bat/thumbnail.png,29.99,100
+151,"Tennis Ball",https://cdn.dummyjson.com/products/images/sports-accessories/Tennis%20Ball/thumbnail.png,6.99,100
+152,"Tennis Racket",https://cdn.dummyjson.com/products/images/sports-accessories/Tennis%20Racket/thumbnail.png,49.99,100
+153,Volleyball,https://cdn.dummyjson.com/products/images/sports-accessories/Volleyball/thumbnail.png,11.99,100
+154,"Black Sun Glasses",https://cdn.dummyjson.com/products/images/sunglasses/Black%20Sun%20Glasses/thumbnail.png,29.99,100
+155,"Classic Sun Glasses",https://cdn.dummyjson.com/products/images/sunglasses/Classic%20Sun%20Glasses/thumbnail.png,24.99,100
+156,"Green and Black Glasses",https://cdn.dummyjson.com/products/images/sunglasses/Green%20and%20Black%20Glasses/thumbnail.png,34.99,100
+157,"Party Glasses",https://cdn.dummyjson.com/products/images/sunglasses/Party%20Glasses/thumbnail.png,19.99,100
+158,Sunglasses,https://cdn.dummyjson.com/products/images/sunglasses/Sunglasses/thumbnail.png,22.99,100
+159,"iPad Mini 2021 Starlight",https://cdn.dummyjson.com/products/images/tablets/iPad%20Mini%202021%20Starlight/thumbnail.png,499.99,100
+160,"Samsung Galaxy Tab S8 Plus Grey",https://cdn.dummyjson.com/products/images/tablets/Samsung%20Galaxy%20Tab%20S8%20Plus%20Grey/thumbnail.png,599.99,100
+161,"Samsung Galaxy Tab White",https://cdn.dummyjson.com/products/images/tablets/Samsung%20Galaxy%20Tab%20White/thumbnail.png,349.99,100
+162,"Blue Frock",https://cdn.dummyjson.com/products/images/tops/Blue%20Frock/thumbnail.png,29.99,100
+163,"Girl Summer Dress",https://cdn.dummyjson.com/products/images/tops/Girl%20Summer%20Dress/thumbnail.png,19.99,100
+164,"Gray Dress",https://cdn.dummyjson.com/products/images/tops/Gray%20Dress/thumbnail.png,34.99,100
+165,"Short Frock",https://cdn.dummyjson.com/products/images/tops/Short%20Frock/thumbnail.png,24.99,100
+166,"Tartan Dress",https://cdn.dummyjson.com/products/images/tops/Tartan%20Dress/thumbnail.png,39.99,100
+167,"300 Touring",https://cdn.dummyjson.com/products/images/vehicle/300%20Touring/thumbnail.png,28999.99,100
+168,"Charger SXT RWD",https://cdn.dummyjson.com/products/images/vehicle/Charger%20SXT%20RWD/thumbnail.png,32999.99,100
+169,"Dodge Hornet GT Plus",https://cdn.dummyjson.com/products/images/vehicle/Dodge%20Hornet%20GT%20Plus/thumbnail.png,24999.99,100
+170,"Durango SXT RWD",https://cdn.dummyjson.com/products/images/vehicle/Durango%20SXT%20RWD/thumbnail.png,36999.99,100
+171,"Pacifica Touring",https://cdn.dummyjson.com/products/images/vehicle/Pacifica%20Touring/thumbnail.png,31999.99,100
+172,"Blue Women's Handbag",https://cdn.dummyjson.com/products/images/womens-bags/Blue%20Women's%20Handbag/thumbnail.png,49.99,100
+173,"Heshe Women's Leather Bag",https://cdn.dummyjson.com/products/images/womens-bags/Heshe%20Women's%20Leather%20Bag/thumbnail.png,129.99,100
+174,"Prada Women Bag",https://cdn.dummyjson.com/products/images/womens-bags/Prada%20Women%20Bag/thumbnail.png,599.99,100
+175,"White Faux Leather Backpack",https://cdn.dummyjson.com/products/images/womens-bags/White%20Faux%20Leather%20Backpack/thumbnail.png,39.99,100
+176,"Women Handbag Black",https://cdn.dummyjson.com/products/images/womens-bags/Women%20Handbag%20Black/thumbnail.png,59.99,100
+177,"Black Women's Gown",https://cdn.dummyjson.com/products/images/womens-dresses/Black%20Women's%20Gown/thumbnail.png,129.99,100
+178,"Corset Leather With Skirt",https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20Leather%20With%20Skirt/thumbnail.png,89.99,100
+179,"Corset With Black Skirt",https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20With%20Black%20Skirt/thumbnail.png,79.99,100
+180,"Dress Pea",https://cdn.dummyjson.com/products/images/womens-dresses/Dress%20Pea/thumbnail.png,49.99,100
+181,"Marni Red & Black Suit",https://cdn.dummyjson.com/products/images/womens-dresses/Marni%20Red%20&%20Black%20Suit/thumbnail.png,179.99,100
+182,"Green Crystal Earring",https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/thumbnail.png,29.99,100
+183,"Green Oval Earring",https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Oval%20Earring/thumbnail.png,24.99,100
+184,"Tropical Earring",https://cdn.dummyjson.com/products/images/womens-jewellery/Tropical%20Earring/thumbnail.png,19.99,100
+185,"Black & Brown Slipper",https://cdn.dummyjson.com/products/images/womens-shoes/Black%20&%20Brown%20Slipper/thumbnail.png,19.99,100
+186,"Calvin Klein Heel Shoes",https://cdn.dummyjson.com/products/images/womens-shoes/Calvin%20Klein%20Heel%20Shoes/thumbnail.png,79.99,100
+187,"Golden Shoes Woman",https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/thumbnail.png,49.99,100
+188,"Pampi Shoes",https://cdn.dummyjson.com/products/images/womens-shoes/Pampi%20Shoes/thumbnail.png,29.99,100
+189,"Red Shoes",https://cdn.dummyjson.com/products/images/womens-shoes/Red%20Shoes/thumbnail.png,34.99,100
+190,"IWC Ingenieur Automatic Steel",https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/thumbnail.png,4999.99,100
+191,"Rolex Cellini Moonphase",https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png,15999.99,100
+192,"Rolex Datejust Women",https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Datejust%20Women/thumbnail.png,10999.99,100
+193,"Watch Gold for Women",https://cdn.dummyjson.com/products/images/womens-watches/Watch%20Gold%20for%20Women/thumbnail.png,799.99,100
+194,"Women's Wrist Watch",https://cdn.dummyjson.com/products/images/womens-watches/Women's%20Wrist%20Watch/thumbnail.png,129.99,100

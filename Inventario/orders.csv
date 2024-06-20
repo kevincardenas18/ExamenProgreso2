@@ -1,8 +1,2 @@
 ID,Nombre,Direccion,Telefono,ProductID,ProductName,ProductPrice,Quantity,ProductImage
-1,Kevin Cardenas,Quito,123456789,1,Essence Mascara Lash Princess,9.99,6,https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png
-1,Kevin Cardenas,Quito,123456789,2,Eyeshadow Palette with Mirror,19.99,3,https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png
-1,Kevin Cardenas,Quito,123456789,3,Powder Canister,14.99,2,https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png
 1,Kevin Cardenas,Quito,123456789,4,Red Lipstick,12.99,1,https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png
-1,Kevin Cardenas,Quito,123456789,5,Red Nail Polish,8.99,1,https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png
-1,Kevin Cardenas,Quito,123456789,6,Calvin Klein CK One,49.99,1,https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png
-1,Kevin Cardenas,Quito,123456789,7,Chanel Coco Noir Eau De,129.99,1,https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png

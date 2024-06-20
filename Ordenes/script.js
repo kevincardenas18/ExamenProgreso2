@@ -1,6 +1,6 @@
 const apiUrl = 'https://dummyjson.com/products';
 let currentPage = 0;
-const limit = 10;
+const limit = 12;
 const customerData = {
     id: 1,
     name: 'Kevin Cardenas',
@@ -49,7 +49,7 @@ function displayProducts(products) {
                 <span id="quantity-${product.id}">1</span>
                 <button onclick="updateQuantity(${product.id}, 1)">+</button>
             </div>
-            <button class="order-button" onclick="addToCart(${product.id}, '${product.thumbnail}', '${product.title}', ${product.price})">Add to Cart</button>
+            <button class="order-button" onclick="addToCart(${product.id}, '${product.thumbnail}', '${product.title}', ${product.price})">Agregar al carrito</button>
         `;
         productGrid.appendChild(productCard);
     });

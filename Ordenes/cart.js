@@ -24,7 +24,7 @@ function displayCart() {
             <p>ID: ${product.productId}</p>
             <p>Price: $${product.productPrice}</p>
             <p>Quantity: ${product.quantity}</p>
-            <button class="remove-button" onclick="removeFromCart(${product.productId})">Remove</button>
+            <button class="remove-button" onclick="removeFromCart(${product.productId})">Eliminar</button>
         `;
         cartGrid.appendChild(cartCard);
     });

@@ -7,7 +7,6 @@ const customerData = {
     address: 'Quito',
     phone: '123456789'
 };
-let orders = [];
 let cart = JSON.parse(localStorage.getItem('cart')) || [];
 
 document.addEventListener('DOMContentLoaded', () => {

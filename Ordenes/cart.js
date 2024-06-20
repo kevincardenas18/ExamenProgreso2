@@ -24,9 +24,16 @@ function displayCart() {
             <p>ID: ${product.productId}</p>
             <p>Price: $${product.productPrice}</p>
             <p>Quantity: ${product.quantity}</p>
+            <button class="remove-button" onclick="removeFromCart(${product.productId})">Remove</button>
         `;
         cartGrid.appendChild(cartCard);
     });
+}
+
+function removeFromCart(productId) {
+    cart = cart.filter(product => product.productId !== productId);
+    localStorage.setItem('cart', JSON.stringify(cart));
+    displayCart();
 }
 
 function generateOrder() {

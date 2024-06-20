@@ -68,6 +68,37 @@ main {
     color: #555;
 }
 
+.quantity-selector {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.quantity-selector button {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+}
+
+.quantity-selector span {
+    margin: 0 1rem;
+    font-size: 1.2rem;
+}
+
+.order-button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #28a745;
+    color: #fff;
+    cursor: pointer;
+}
+
 .pagination {
     display: flex;
     justify-content: center;
